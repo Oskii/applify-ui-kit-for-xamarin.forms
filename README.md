@@ -17,7 +17,6 @@ This UI Kit is a fork of the [Essentials UI Kit](https://www.syncfusion.com/esse
 * [System Requirements](#system-requirements)
 * [The Visual Studio Extension](#the-visual-studio-extension)
 * [Coding Style](#coding-style)
-* [Recent Blogs](#recent-blogs--news)
 * [Screenshots](#screenshots)
 * [Requesting Screens & Reporting Bugs](#requesting-screens--reporting-bugs)
 * [License](#license)
@@ -45,12 +44,6 @@ This UI Kit is a fork of the [Essentials UI Kit](https://www.syncfusion.com/esse
 * UWP Build 17763 and later versions
 
 The required minimum version of Xamarin.Forms is 4.0.0.425677.
-
-## System Requirements
-Refer to the [Xamarin system requirements](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/requirements) documentation to learn more about the development environments.
-
-## The Visual Studio Extension
-The Visual Studio extension allows you to add the required templates quickly through a few clicks. The extension setup is available in the Visual Studio Marketplace with detailed information on how to add the templates.
 
 https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Essential-UI-Kit-Xamarin-Forms
 
