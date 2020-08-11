@@ -115,4 +115,4 @@ The demo images and illustrations exhibited in this app are obtained from the fo
 
 **Note:**  This license by no means modifies the license under which 3rd party intellectual property is provided and that such intellectual property is deemed directly licensed from the 3rd party by the user. You are solely responsible for obtaining all 3rd party licenses directly from the provider. These licenses to any third party intellectual property must be independently obtained by Customer from the provider.
 
-You can check our https://applify.com.au to see past and current projects
+You can check out https://applify.com.au to see past and current projects
