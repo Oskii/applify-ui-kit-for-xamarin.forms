@@ -20,7 +20,6 @@ This UI Kit is a fork of the [Essentials UI Kit](https://www.syncfusion.com/esse
 * [Screenshots](#screenshots)
 * [Requesting Screens & Reporting Bugs](#requesting-screens--reporting-bugs)
 * [License](#license)
-* [About Syncfusion](#about-syncfusion)
 
 ## Build Status
 |CI Tool                    |Build Status|
